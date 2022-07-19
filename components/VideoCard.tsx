@@ -73,7 +73,7 @@ const VideoCard: NextPage<IProps> = ({
                 <Image
                   width={62}
                   height={62}
-                  className=' rounded-full'
+                  className='rounded-full'
                   src={postedBy?.image}
                   alt='user-profile'
                   layout='responsive'
